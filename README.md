@@ -1,3 +1,3 @@
-# study-demo
+ # study-demo
 This is my first Git Repository
-Author - Vaibhav
+Author - Vaibhav nissangi
